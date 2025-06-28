@@ -1,4 +1,4 @@
-# Revo Uninstaller – Complete Software Removal Tool for Developers and GitHub Teams
+# Revo Uninstaller v5.2.6 Complete Software Removal Tool for Developers and GitHub Teams
 
 **Revo Uninstaller** is a trusted Windows utility designed to fully remove unwanted software, residual files, and hidden registry entries that traditional uninstallers often miss. For developers, testers, and GitHub-based teams, Revo ensures clean development environments, avoids conflicts with dependencies, and improves system performance — all while protecting privacy.
 
